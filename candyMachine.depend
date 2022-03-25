@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1647943623 source:/home/femar/Desktop/candyMachine/cashRegisterImp.cpp
+	<iostream>
+	"cashRegister.h"
+
+1647942012 /home/femar/Desktop/candyMachine/cashRegister.h
+
+1647944264 source:/home/femar/Desktop/candyMachine/dispenserTypeImp.cpp
+	<iostream>
+	"dispenserType.h"
+
+1647944257 /home/femar/Desktop/candyMachine/dispenserType.h
+
+1647945302 source:/home/femar/Desktop/candyMachine/main.cpp
+	<iostream>
+	"cashRegister.h"
+	"dispenserType.h"
+
+1647943623 source:/home/femar/Desktop/C & C++/00 Projects/candyMachine/cashRegisterImp.cpp
+	<iostream>
+	"cashRegister.h"
+
+1647961334 /home/femar/Desktop/C & C++/00 Projects/candyMachine/cashRegister.h
+
+1647944264 source:/home/femar/Desktop/C & C++/00 Projects/candyMachine/dispenserTypeImp.cpp
+	<iostream>
+	"dispenserType.h"
+
+1647944257 /home/femar/Desktop/C & C++/00 Projects/candyMachine/dispenserType.h
+
+1648019429 source:/home/femar/Desktop/C & C++/00 Projects/candyMachine/main.cpp
+	<iostream>
+	"cashRegister.h"
+	"dispenserType.h"
+
